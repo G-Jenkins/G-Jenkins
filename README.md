@@ -6,7 +6,8 @@ Some things about me.
 - English Teacher... for now!
 - Writings on Medium.com and Twitter.
 Coding Environment: Dark Mode + Coffee ☕ + ambient music. 
-- Speaks English, Spanish, French, and Japanese 
+- Speaks English, Spanish, French, and Japanese
+- Hobbies: Photography, 
 - Current interests: Digital Art, Running 🏃
 - Nature lover: Hiking, Scuba Diving, Camping
 - Art Lover: Mario Martinez (MARS-1), Hirotake Imanishi, Alex Grey, Android Jones
