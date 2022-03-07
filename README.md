@@ -1,4 +1,4 @@
-Hello W0rld.
+Hello!
 
 I'm Greg. I'm an aspiring Software Engineer/Web Developer, currently living in Japan. I set a deadline to make the transition to coding full time this year. Since I've always been interested in technology, this is the next logical step for me. 
 
