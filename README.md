@@ -12,7 +12,7 @@ Coding Environment: Dark Mode + Coffee ☕ + ambient music.
 - Nature lover: Hiking, Scuba Diving, Camping
 - Art Lover: Mario Martinez (MARS-1), Hirotake Imanishi, Alex Grey, Android Jones
 - Music? Yes please.  Max Cooper, Nils Frahm, Bonobo, Trent Reznor
-- Currently Reading: Sapiens: A Brief History of Humankind
+- Currently Reading: Sapiens: Hyperion
 
 TOOLBOX
 
