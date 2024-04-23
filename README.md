@@ -21,10 +21,11 @@
   📖 On a daily mission to conquer challenges on LeetCode to refine my problem-solving skills.
 </p>
 
-<p align="center">
-  📫 How to reach me: <a href="mailto:your-email@example.com">your-email@example.com</a>
-</p>
 
+
+<p>
+  📫 Connect with me
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/gregory-jenkins-910623118/">
