@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🌲 I'm currently enhancing my skills in <strong>JavaScript</strong> and <strong>Data Structures & Algorithms (DS&A)</strong> — I believe in constantly deepening my knowledge.
+  🌲 I'm currently enhancing my skills in <strong>JavaScript</strong> and <strong>DS&A</strong> — I believe in constantly deepening my knowledge on fundamentals.
 </p>
 
 <p align="center">
