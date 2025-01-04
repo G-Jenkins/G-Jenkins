@@ -9,19 +9,6 @@
   🌐 My technical foundation lies in the MERN stack, with a significant emphasis on React and its complementary technologies.
 </p>
 
-<p align="center">
-  🌲 I'm currently enhancing my skills in <strong>JavaScript</strong> and <strong>DS&A</strong> — I believe in constantly deepening my knowledge on fundamentals.
-</p>
-
-<p align="center">
-  🎨 When I'm not coding, I enjoy drawing and camping to reconnect with nature.
-</p>
-
-<p align="center">
-  📖 On a daily mission to conquer challenges on LeetCode to refine my problem-solving skills.
-</p>
-
-
 
 <p>
   📫 Connect with me
